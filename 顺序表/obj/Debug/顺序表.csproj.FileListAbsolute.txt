@@ -1,0 +1,7 @@
+D:\VSWorkSpace\数据结构\顺序表\bin\Debug\顺序表.exe.config
+D:\VSWorkSpace\数据结构\顺序表\bin\Debug\顺序表.exe
+D:\VSWorkSpace\数据结构\顺序表\bin\Debug\顺序表.pdb
+D:\VSWorkSpace\数据结构\顺序表\obj\Debug\顺序表.csprojResolveAssemblyReference.cache
+D:\VSWorkSpace\数据结构\顺序表\obj\Debug\顺序表.csproj.CoreCompileInputs.cache
+D:\VSWorkSpace\数据结构\顺序表\obj\Debug\顺序表.exe
+D:\VSWorkSpace\数据结构\顺序表\obj\Debug\顺序表.pdb

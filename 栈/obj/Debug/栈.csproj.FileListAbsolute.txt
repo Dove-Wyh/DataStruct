@@ -1,0 +1,7 @@
+D:\VSWorkSpace\数据结构\栈\bin\Debug\栈.exe.config
+D:\VSWorkSpace\数据结构\栈\bin\Debug\栈.exe
+D:\VSWorkSpace\数据结构\栈\bin\Debug\栈.pdb
+D:\VSWorkSpace\数据结构\栈\obj\Debug\栈.csprojResolveAssemblyReference.cache
+D:\VSWorkSpace\数据结构\栈\obj\Debug\栈.csproj.CoreCompileInputs.cache
+D:\VSWorkSpace\数据结构\栈\obj\Debug\栈.exe
+D:\VSWorkSpace\数据结构\栈\obj\Debug\栈.pdb
