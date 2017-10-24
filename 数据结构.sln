@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "栈", "栈\栈.csproj", "{F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "二叉树", "二叉树\二叉树.csproj", "{880E7947-CFC9-4DC3-9CA8-C6ADB0B3022B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "二叉排序树", "二叉排序树\二叉排序树.csproj", "{88389885-AF75-4AB9-A7D8-2E9B89A5C172}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "堆排序", "堆排序\堆排序.csproj", "{0C287046-FD91-40F6-9535-DE8B552EC232}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{880E7947-CFC9-4DC3-9CA8-C6ADB0B3022B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{880E7947-CFC9-4DC3-9CA8-C6ADB0B3022B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{880E7947-CFC9-4DC3-9CA8-C6ADB0B3022B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88389885-AF75-4AB9-A7D8-2E9B89A5C172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88389885-AF75-4AB9-A7D8-2E9B89A5C172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88389885-AF75-4AB9-A7D8-2E9B89A5C172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88389885-AF75-4AB9-A7D8-2E9B89A5C172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C287046-FD91-40F6-9535-DE8B552EC232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C287046-FD91-40F6-9535-DE8B552EC232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C287046-FD91-40F6-9535-DE8B552EC232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C287046-FD91-40F6-9535-DE8B552EC232}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
