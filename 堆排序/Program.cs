@@ -8,36 +8,41 @@ namespace 堆排序
 {
     class Program
     {
-        void HeadSort(int[] a)
+        void HeadSort(int[] a, int length)
         {
-            int index = a.Length / 2;
-            for (int i = index; i >= 1; i--)
+            for (int i = length; i > 1; i--)        //一共需要排列length - 1次
             {
-                HeadSortUnit(a, i);
+                int index = i / 2 - 1;              //从有子结点的结点开始
+                for (int j = index; j >= 0; j--)
+                {
+                    HeadSortUnit(a, j, i);          //从左中右三个中把最大和最小的交换位置
+                }
+                Change(a, 0, i - 1);
             }
         }
 
-        void HeadSortUnit(int[] a, int index)
+        void HeadSortUnit(int[] a, int index, int length)
         {
-            if (index > a.Length / 2)
+            int left = index * 2 + 1;
+            int right = left + 1;
+            //index*2+1是左孩子的下标，所以index*2+1+1就是右孩子的下标
+            if (right > length - 1)//代表没有右孩子
             {
+                if (a[index] < a[left])
+                {
+                    Change(a, index, left);
+                }
                 return;
             }
-            if (index * 2 + 1 > a.Length && a[index] < a[index * 2])//代表没有右结点
+            else                    //代表有右孩子
             {
-                Change(a, index, index * 2);
-            }
-            else                         //代表有右结点
-            {
-                if (a[index * 2] > a[index * 2 + 1] && a[index * 2] > a[index])
+                if (a[left] > a[right] && a[left] > a[index])
                 {
-                    Change(a, index, index * 2);
-                    HeadSortUnit(a, index * 2);
+                    Change(a, index, left);
                 }
-                if (a[index * 2 + 1] > a[index * 2] && a[index * 2 + 1] > a[index])
+                if (a[right] > a[left] && a[right] > a[index])
                 {
-                    Change(a, index, index * 2 + 1);
-                    HeadSortUnit(a, index * 2 + 1);
+                    Change(a, index, right);
                 }
             }
         }
@@ -52,9 +57,16 @@ namespace 堆排序
 
         static void Main(string[] args)
         {
-            int[] array = new[] { 16, 7, 3, 20, 17, 8 };
-
-
+            Program p = new Program();
+            int[] array;
+            array = new[] { 1, 0, 10, 20, 3, 5, 6, 4, 9, 8, 12, 17, 34, 11 };
+            p.HeadSort(array, array.Length);
+            foreach (var item in array)
+            {
+                Console.Write(item + " ");
+            }
+            Console.WriteLine();
+            Console.Read();
         }
     }
 }
