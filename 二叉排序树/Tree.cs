@@ -103,6 +103,7 @@ namespace 二叉排序树
         //删除节点
         public bool Delete(int data)
         {
+            //如果没有找到结点，返回false，但是如果找到了，temp就会指向结点位置
             if (Find(data) == false)
             {
                 return false;
@@ -110,7 +111,7 @@ namespace 二叉排序树
             //如果结点没有左右子树
             if (temp.Left == null && temp.Right == null)
             {
-                if (temp.Parent == null)
+                if (temp.Parent == null)//如果被删除的结点没有父节点，说明就是根节点，直接把树赋值为空
                 {
                     root = null;
                     return true;
@@ -169,7 +170,7 @@ namespace 二叉排序树
             minInRight.Parent = minInRight.Parent;
             minInRight.Parent.Left = minInRight.Right;
 
-            //如果删除的是不是根节点
+            //如果删除的是有左右子树并且不是根节点
             if (temp.Parent != null)
             {
                 minInRight.Parent = temp.Parent;

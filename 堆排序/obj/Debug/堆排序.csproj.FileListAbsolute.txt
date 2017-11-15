@@ -6,3 +6,10 @@ D:\VSWorkSpace\DataStruct\堆排序\bin\Debug\堆排序.pdb
 D:\VSWorkSpace\DataStruct\堆排序\obj\Debug\堆排序.csprojResolveAssemblyReference.cache
 D:\VSWorkSpace\DataStruct\堆排序\obj\Debug\堆排序.exe
 D:\VSWorkSpace\DataStruct\堆排序\obj\Debug\堆排序.pdb
+F:\VSWorkSpace\DataStruct\堆排序\bin\Debug\堆排序.exe.config
+F:\VSWorkSpace\DataStruct\堆排序\bin\Debug\堆排序.exe
+F:\VSWorkSpace\DataStruct\堆排序\bin\Debug\堆排序.pdb
+F:\VSWorkSpace\DataStruct\堆排序\obj\Debug\堆排序.csprojResolveAssemblyReference.cache
+F:\VSWorkSpace\DataStruct\堆排序\obj\Debug\堆排序.csproj.CoreCompileInputs.cache
+F:\VSWorkSpace\DataStruct\堆排序\obj\Debug\堆排序.exe
+F:\VSWorkSpace\DataStruct\堆排序\obj\Debug\堆排序.pdb

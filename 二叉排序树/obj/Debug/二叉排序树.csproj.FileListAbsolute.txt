@@ -5,3 +5,10 @@ D:\VSWorkSpace\数据结构\二叉排序树\obj\Debug\二叉排序树.csprojReso
 D:\VSWorkSpace\数据结构\二叉排序树\obj\Debug\二叉排序树.csproj.CoreCompileInputs.cache
 D:\VSWorkSpace\数据结构\二叉排序树\obj\Debug\二叉排序树.exe
 D:\VSWorkSpace\数据结构\二叉排序树\obj\Debug\二叉排序树.pdb
+F:\VSWorkSpace\DataStruct\二叉排序树\bin\Debug\二叉排序树.exe.config
+F:\VSWorkSpace\DataStruct\二叉排序树\bin\Debug\二叉排序树.exe
+F:\VSWorkSpace\DataStruct\二叉排序树\bin\Debug\二叉排序树.pdb
+F:\VSWorkSpace\DataStruct\二叉排序树\obj\Debug\二叉排序树.csprojResolveAssemblyReference.cache
+F:\VSWorkSpace\DataStruct\二叉排序树\obj\Debug\二叉排序树.csproj.CoreCompileInputs.cache
+F:\VSWorkSpace\DataStruct\二叉排序树\obj\Debug\二叉排序树.exe
+F:\VSWorkSpace\DataStruct\二叉排序树\obj\Debug\二叉排序树.pdb

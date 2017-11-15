@@ -18,6 +18,12 @@ namespace 堆排序
                     HeadSortUnit(a, j, i);          //从左中右三个中把最大和最小的交换位置
                 }
                 Change(a, 0, i - 1);
+                //每次构成一个大顶堆并且交换堆顶（最大值）和最后一个结点之后，输出
+                foreach (var i1 in a)
+                {
+                    Console.Write(i1 + " ");
+                }
+                Console.WriteLine();
             }
         }
 
