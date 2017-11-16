@@ -112,8 +112,9 @@ namespace 顺序表
             {
                 throw new ArgumentOutOfRangeException();
             }
-            for (int i = count - 1; i > count - index; i--)
+            for (int i = count - 1; i >= index; i--)
             {
+                //Console.WriteLine(i);
                 data[i + 1] = data[i];
             }
             data[index] = item;
