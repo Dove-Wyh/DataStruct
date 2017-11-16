@@ -5,7 +5,7 @@ namespace 顺序表
     public class SequenceList<T> : IListDS<T>
     {
         public T[] data;
-        private T[] newData;
+        private T[] newData;//扩充数组大小时候使用
         public int count;
 
         public SequenceList(int index)
@@ -14,7 +14,7 @@ namespace 顺序表
             count = 0;
         }
 
-        public SequenceList() : this(8)
+        public SequenceList() : this(8)//默认构造长度为8的数组
         {
 
         }
