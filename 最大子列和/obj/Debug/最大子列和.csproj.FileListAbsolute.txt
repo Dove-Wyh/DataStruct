@@ -1,0 +1,7 @@
+F:\VSWorkSpace\DataStruct\最大子列和\bin\Debug\最大子列和.exe.config
+F:\VSWorkSpace\DataStruct\最大子列和\bin\Debug\最大子列和.exe
+F:\VSWorkSpace\DataStruct\最大子列和\bin\Debug\最大子列和.pdb
+F:\VSWorkSpace\DataStruct\最大子列和\obj\Debug\最大子列和.csprojResolveAssemblyReference.cache
+F:\VSWorkSpace\DataStruct\最大子列和\obj\Debug\最大子列和.csproj.CoreCompileInputs.cache
+F:\VSWorkSpace\DataStruct\最大子列和\obj\Debug\最大子列和.exe
+F:\VSWorkSpace\DataStruct\最大子列和\obj\Debug\最大子列和.pdb

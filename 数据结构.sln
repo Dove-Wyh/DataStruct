@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.16
+VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "顺序表", "顺序表\顺序表.csproj", "{0105A6C4-CC7E-4584-9E53-6B427AFCD9D0}"
 EndProject
@@ -14,6 +14,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "二叉排序树", "二叉排序树\二叉排序树.csproj", "{88389885-AF75-4AB9-A7D8-2E9B89A5C172}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "堆排序", "堆排序\堆排序.csproj", "{0C287046-FD91-40F6-9535-DE8B552EC232}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "最大子列和", "最大子列和\最大子列和.csproj", "{1A2C512D-4F1A-4CE7-8C4E-552FF639DDB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "钢条切割问题", "钢条切割问题\钢条切割问题.csproj", "{DC8A9E94-2C09-47EA-873D-042E003E5B42}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{0C287046-FD91-40F6-9535-DE8B552EC232}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C287046-FD91-40F6-9535-DE8B552EC232}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C287046-FD91-40F6-9535-DE8B552EC232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A2C512D-4F1A-4CE7-8C4E-552FF639DDB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2C512D-4F1A-4CE7-8C4E-552FF639DDB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2C512D-4F1A-4CE7-8C4E-552FF639DDB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2C512D-4F1A-4CE7-8C4E-552FF639DDB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC8A9E94-2C09-47EA-873D-042E003E5B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC8A9E94-2C09-47EA-873D-042E003E5B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC8A9E94-2C09-47EA-873D-042E003E5B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC8A9E94-2C09-47EA-873D-042E003E5B42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

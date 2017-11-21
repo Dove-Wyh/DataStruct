@@ -1,0 +1,7 @@
+F:\VSWorkSpace\DataStruct\钢条切割问题\bin\Debug\钢条切割问题.exe.config
+F:\VSWorkSpace\DataStruct\钢条切割问题\bin\Debug\钢条切割问题.exe
+F:\VSWorkSpace\DataStruct\钢条切割问题\bin\Debug\钢条切割问题.pdb
+F:\VSWorkSpace\DataStruct\钢条切割问题\obj\Debug\钢条切割问题.csprojResolveAssemblyReference.cache
+F:\VSWorkSpace\DataStruct\钢条切割问题\obj\Debug\钢条切割问题.csproj.CoreCompileInputs.cache
+F:\VSWorkSpace\DataStruct\钢条切割问题\obj\Debug\钢条切割问题.exe
+F:\VSWorkSpace\DataStruct\钢条切割问题\obj\Debug\钢条切割问题.pdb
