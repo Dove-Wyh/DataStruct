@@ -1,0 +1,7 @@
+F:\VSWorkSpace\DataStruct\背包问题\bin\Debug\背包问题.exe.config
+F:\VSWorkSpace\DataStruct\背包问题\bin\Debug\背包问题.exe
+F:\VSWorkSpace\DataStruct\背包问题\bin\Debug\背包问题.pdb
+F:\VSWorkSpace\DataStruct\背包问题\obj\Debug\背包问题.csprojResolveAssemblyReference.cache
+F:\VSWorkSpace\DataStruct\背包问题\obj\Debug\背包问题.csproj.CoreCompileInputs.cache
+F:\VSWorkSpace\DataStruct\背包问题\obj\Debug\背包问题.exe
+F:\VSWorkSpace\DataStruct\背包问题\obj\Debug\背包问题.pdb

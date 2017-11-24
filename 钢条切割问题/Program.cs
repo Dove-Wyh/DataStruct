@@ -8,6 +8,7 @@ namespace 钢条切割问题
 {
     class Program
     {
+        //带备忘的自底向上的动态规划
         static int maxValue(int length, Dictionary<int, int> priceList)
         {
             Dictionary<int, int> maxList = new Dictionary<int, int>();//存储不同长度的最大收益
@@ -35,7 +36,7 @@ namespace 钢条切割问题
 
         static void Main(string[] args)
         {
-            Dictionary<int, int> priceList = new Dictionary<int, int>();
+            Dictionary<int, int> priceList = new Dictionary<int, int>();//存储不同长度对应的价格
             priceList.Add(0, 0);
             priceList.Add(1, 1);
             priceList.Add(2, 5);
